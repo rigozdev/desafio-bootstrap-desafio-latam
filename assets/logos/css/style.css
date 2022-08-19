@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    justify-content: end;
+    justify-items: end;
+    justify-self: end;
+}
+
+.collapse{
+    display: flex;
+    justify-content: end;
+    justify-items: end;
+    justify-self: end;
+}
